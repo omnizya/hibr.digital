@@ -6,8 +6,8 @@ export default function Logo() {
       className="center"
       src={HibrDigitalLogo}
       alt="Hibr Digital Logo حبر رقمي"
-      width={180}
-      height={180}
+      width={256}
+      height={256}
       priority
     />
   );
