@@ -7,8 +7,9 @@ export default function Home() {
       <main className="flex flex-col gap-8 items-center row-start-2">
         <header className="">
           <h1 className="text-center text-8xl text-orange-500" dir="rtl">
-            حِبْرٌ<span className="text-white font-sans">.</span>
-            <span className="text-2xl text-white">digital</span>
+            حِبْرٌ
+            <span className="text-white dark:text-black font-sans">.</span>
+            <span className="text-2xl">digital</span>
           </h1>
         </header>
         <Logo />
