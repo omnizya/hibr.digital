@@ -8,8 +8,8 @@ export default function Home() {
         <header className="">
           <h1 className="text-center text-8xl text-orange-500" dir="rtl">
             حِبْرٌ
-            <span className="text-white dark:text-black font-sans">.</span>
-            <span className="text-2xl">digital</span>
+            <span className="dark:text-white font-sans">.</span>
+            <span className="text-xl dark:text-white">digital</span>
           </h1>
         </header>
         <Logo />
